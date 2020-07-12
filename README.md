@@ -1,2 +1,2 @@
-# -Joomla-on-EKS-AWS-
+# Joomla-on-EKS-AWS-
 Launch Joomla-on-EKS
